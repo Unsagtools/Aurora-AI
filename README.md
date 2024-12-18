@@ -69,7 +69,7 @@ Aurora AI is an advanced, secure, and interactive voice assistant built to deliv
    - Logs all commands, errors, and intruder attempts with timestamps.
 
 --
-plaintext```
+```
 Aurora-AI-Ultra-Security/
 ├── src/
 │   ├── gui.py                # Handles GUI interactions
@@ -95,7 +95,7 @@ Aurora-AI-Ultra-Security/
 ├── data/                     # Local data storage for notes and other information
 ├── README.md                 # Documentation and setup instructions
 ├── requirements.txt          # Dependency list
-└── main.py                   # Entry point for the assistant
+└── main.py                   # Entry point for the assistant ```
 ---
 
 ## Setup Instructions
